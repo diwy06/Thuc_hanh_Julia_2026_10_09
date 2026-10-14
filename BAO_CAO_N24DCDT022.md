@@ -6,7 +6,7 @@
 **Mã số sinh viên (MSSV):** N24DCDT022  
 **Lớp:** D24CQDT01-N  
 **Phiên bản Julia:** Julia 1.13.1  
-**GitHub Repository:** `https://github.com/TranHuuDuy-PTIT/Thuc_hanh_Julia_2026_10_09`  
+**GitHub Repository:** `https://github.com/diwy06/Thuc_hanh_Julia_2026_10_09`  
 **Commit SHA:** `9a91d0d`  
 
 ---
